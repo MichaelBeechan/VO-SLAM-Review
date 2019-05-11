@@ -2,17 +2,19 @@
 SLAM is mainly divided into two parts: the front end and the back end. The front end is the visual odometer (VO), which roughly estimates the motion of the camera based on the information of adjacent images and provides a good initial value for the back end.The implementation methods of VO can be divided into two categories according to whether features are extracted or not: feature point-based methods, and direct methods without feature points. VO based on feature points is stable and insensitive to illumination and dynamic objects
 
 =======================================================================
+
 github：https://github.com/MichaelBeechan
 
 CSDN：https://blog.csdn.net/u011344545
 
 =======================================================================
 
-OF-VO：Robust and Efficient Stereo Visual Odometry Using Points and Feature Optical Flow
+#OF-VO：Robust and Efficient Stereo Visual Odometry Using Points and Feature Optical Flow
 
 代码：https://github.com/MichaelBeechan/MyStereoLibviso2
 
-SVO: Fast Semi-Direct Monocular Visual Odometry
+
+#SVO: Fast Semi-Direct Monocular Visual Odometry
 
 论文：http://rpg.ifi.uzh.ch/docs/ICRA14_Forster.pdf
 
@@ -20,9 +22,9 @@ SVO: Fast Semi-Direct Monocular Visual Odometry
 
 
 
-Robust Odometry Estimation for RGB-D Cameras
+#Robust Odometry Estimation for RGB-D Cameras
 
-Real-Time Visual Odometry from Dense RGB-D Images
+#Real-Time Visual Odometry from Dense RGB-D Images
 
 论文：http://www.cs.nuim.ie/research/vision/data/icra2013/Whelan13icra.pdf
 
