@@ -14,7 +14,7 @@ CSDN：https://blog.csdn.net/u011344545
 代码：https://github.com/MichaelBeechan/MyStereoLibviso2
 
 
-# SVO: Fast Semi-Direct Monocular Visual Odometry
+## SVO: Fast Semi-Direct Monocular Visual Odometry
 
 论文：http://rpg.ifi.uzh.ch/docs/ICRA14_Forster.pdf
 
@@ -22,9 +22,9 @@ CSDN：https://blog.csdn.net/u011344545
 
 
 
-# Robust Odometry Estimation for RGB-D Cameras
+## Robust Odometry Estimation for RGB-D Cameras
 
-# Real-Time Visual Odometry from Dense RGB-D Images
+## Real-Time Visual Odometry from Dense RGB-D Images
 
 论文：http://www.cs.nuim.ie/research/vision/data/icra2013/Whelan13icra.pdf
 
@@ -32,7 +32,7 @@ CSDN：https://blog.csdn.net/u011344545
 
 
 
-Parallel Tracking and Mapping for Small AR Workspaces
+## Parallel Tracking and Mapping for Small AR Workspaces
 
 论文：https://cse.sc.edu/~yiannisr/774/2015/ptam.pdf
 
@@ -42,7 +42,7 @@ http://www.robots.ox.ac.uk/ActiveVision/Papers/klein_murray_ismar2007/klein_murr
 
 
 
-ORBSLAM
+## ORBSLAM
 
 代码：https://github.com/raulmur/ORB_SLAM2
 
@@ -50,7 +50,7 @@ https://github.com/raulmur/ORB_SLAM
 
 
 
-A ROS Implementation of the Mono-Slam Algorithm
+## A ROS Implementation of the Mono-Slam Algorithm
 
 论文：https://www.researchgate.net/publication/269200654_A_ROS_Implementation_of_the_Mono-Slam_Algorithm
 
@@ -58,7 +58,7 @@ A ROS Implementation of the Mono-Slam Algorithm
 
 
 
-DTAM: Dense tracking and mapping in real-time
+## DTAM: Dense tracking and mapping in real-time
 
 论文：https://ieeexplore.ieee.org/document/6126513
 
@@ -66,7 +66,7 @@ DTAM: Dense tracking and mapping in real-time
 
 
 
-LSD-SLAM: Large-Scale Direct Monocular SLAM
+## LSD-SLAM: Large-Scale Direct Monocular SLAM
 
 论文：http://pdfs.semanticscholar.org/c13c/b6dfd26a1b545d50d05b52c99eb87b1c82b2.pdf
 
@@ -76,7 +76,7 @@ https://vision.in.tum.de/research/vslam/lsdslam
 
 
 
-MSCKF_VIO：Robust Stereo Visual Inertial Odometry for Fast Autonomous Flight
+## MSCKF_VIO：Robust Stereo Visual Inertial Odometry for Fast Autonomous Flight
 
 论文：https://arxiv.org/abs/1712.00036
 
@@ -84,7 +84,7 @@ MSCKF_VIO：Robust Stereo Visual Inertial Odometry for Fast Autonomous Flight
 
 
 
-LIBVISO2: C++ Library for Visual Odometry 2
+## LIBVISO2: C++ Library for Visual Odometry 2
 
 论文：http://www.cvlibs.net/software/libviso/
 
@@ -92,9 +92,9 @@ LIBVISO2: C++ Library for Visual Odometry 2
 
 
 
-Stereo Visual SLAM for Mobile Robots Navigation
+## Stereo Visual SLAM for Mobile Robots Navigation
 
-A constant-time SLAM back-end in the continuum between global mapping and submapping: application to visual stereo SLAM
+## A constant-time SLAM back-end in the continuum between global mapping and submapping: application to visual stereo SLAM
 
 论文：http://mapir.uma.es/famoreno/papers/thesis/FAMD_thesis.pdf
 
@@ -102,9 +102,9 @@ A constant-time SLAM back-end in the continuum between global mapping and submap
 
 
 
-Combining Edge Images and Depth Maps for Robust Visual Odometry
+## Combining Edge Images and Depth Maps for Robust Visual Odometry
 
-Robust Edge-based Visual Odometry using Machine-Learned Edges(REVO)
+## Robust Edge-based Visual Odometry using Machine-Learned Edges(REVO)
 
 论文：https://graz.pure.elsevier.com/
 
@@ -112,9 +112,9 @@ Robust Edge-based Visual Odometry using Machine-Learned Edges(REVO)
 
 
 
-HKUST Aerial Robotics Group
+# HKUST Aerial Robotics Group
 
-VINS-Mono: A Robust and Versatile Monocular Visual-Inertial State Estimator
+## VINS-Mono: A Robust and Versatile Monocular Visual-Inertial State Estimator
 
 论文：https://arxiv.org/pdf/1708.03852.pdf
 
@@ -122,7 +122,7 @@ VINS-Mono: A Robust and Versatile Monocular Visual-Inertial State Estimator
 
 
 
-VINS-Fusion:Online Temporal Calibration for Monocular Visual-Inertial Systems
+## VINS-Fusion:Online Temporal Calibration for Monocular Visual-Inertial Systems
 
 论文：https://arxiv.org/pdf/1808.00692.pdf
 
@@ -130,7 +130,7 @@ VINS-Fusion:Online Temporal Calibration for Monocular Visual-Inertial Systems
 
 
 
-Monocular Visual-Inertial State Estimation for Mobile Augmented Reality
+## Monocular Visual-Inertial State Estimation for Mobile Augmented Reality
 
 论文：https://ieeexplore.ieee.org/document/8115400
 
@@ -138,7 +138,7 @@ Monocular Visual-Inertial State Estimation for Mobile Augmented Reality
 
 
 
-VINet: Visual-Inertial Odometry as a Sequence-to-Sequence Learning Problem
+## VINet: Visual-Inertial Odometry as a Sequence-to-Sequence Learning Problem
 
 论文：https://arxiv.org/abs/1701.08376
 
@@ -146,21 +146,21 @@ VINet: Visual-Inertial Odometry as a Sequence-to-Sequence Learning Problem
 
 
 
-Computer Vision Group TUM Department of Informatics Technical University of Munich
+# Computer Vision Group TUM Department of Informatics Technical University of Munich
 
-DSO: Direct Sparse Odometry
+## DSO: Direct Sparse Odometry
 
 代码;https://github.com/JingeTu/StereoDSO
 
-Visual-Inertial DSO：https://vision.in.tum.de/research/vslam/vi-dso
+### Visual-Inertial DSOhttps://vision.in.tum.de/research/vslam/vi-dso
 
-DVSO：https://vision.in.tum.de/research/vslam/dvso
+### DVSO：https://vision.in.tum.de/research/vslam/dvso
 
-DSO with Loop-closure and Sim(3) pose graph optimization：https://vision.in.tum.de/research/vslam/ldso
+### DSO with Loop-closure and Sim(3) pose graph optimization：https://vision.in.tum.de/research/vslam/ldso
 
 
 
-Stereo odometry based on careful feature selection and tracking
+## Stereo odometry based on careful feature selection and tracking
 
 论文：https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7324219
 
@@ -168,13 +168,13 @@ Stereo odometry based on careful feature selection and tracking
 
 
 
-OKVIS: Open Keyframe-based Visual-Inertial SLAM
+## OKVIS: Open Keyframe-based Visual-Inertial SLAM
 
 代码：https://github.com/gaoxiang12/okvis
 
 
 
-Trifo-VIO: Robust and Efficient Stereo Visual Inertial Odometry using Points and Lines
+## Trifo-VIO: Robust and Efficient Stereo Visual Inertial Odometry using Points and Lines
 
 论文：https://arxiv.org/pdf/1803.02403.pdf
 
@@ -182,10 +182,15 @@ Trifo-VIO: Robust and Efficient Stereo Visual Inertial Odometry using Points and
 
 
 
-PL-VIO: Tightly-Coupled Monocular Visual–Inertial Odometry Using Point and Line Features
+## PL-VIO: Tightly-Coupled Monocular Visual–Inertial Odometry Using Point and Line Features
 
 论文：https://www.mdpi.com/1424-8220/18/4/1159/html
 
-A Review of Visual-Inertial Simultaneous Localization and Mapping from Filtering-Based and Optimization-Based Perspectives：视觉惯导的综述性文章
+## Overview of visual inertial navigation
+### A Review of Visual-Inertial Simultaneous Localization and Mapping from Filtering-Based and Optimization-Based Perspectives：
+
+https://ieeexplore.ieee.org/document/5423178
+
+https://www.mdpi.com/2218-6581/7/3/45
 
 
