@@ -53,7 +53,7 @@ Code：https://github.com/Oxford-PTAM/PTAM-GPL
 
 Code1：https://github.com/raulmur/ORB_SLAM2
 
-Code1：https://github.com/raulmur/ORB_SLAM
+Code2：https://github.com/raulmur/ORB_SLAM
 
 
 
@@ -208,7 +208,7 @@ Code：https://github.com/HTLife/VINet
 
 ## DSO: Direct Sparse Odometry
 
-Code;https://github.com/JingeTu/StereoDSO
+Code：https://github.com/JingeTu/StereoDSO
 
 ### Visual-Inertial DSOhttps://vision.in.tum.de/research/vslam/vi-dso
 
