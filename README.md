@@ -11,14 +11,21 @@ CSDN：https://blog.csdn.net/u011344545
 
 ## OF-VO：Robust and Efficient Stereo Visual Odometry Using Points and Feature Optical Flow
 
-代码：https://github.com/MichaelBeechan/MyStereoLibviso2
+Code：https://github.com/MichaelBeechan/MyStereoLibviso2
+
+## SLAMBook
+
+Paper：14 Lectures on Visual SLAM: From Theory to Practice,
+
+Code：https://github.com/gaoxiang12/slambook
+
 
 
 ## SVO: Fast Semi-Direct Monocular Visual Odometry
 
-论文：http://rpg.ifi.uzh.ch/docs/ICRA14_Forster.pdf
+Paper：http://rpg.ifi.uzh.ch/docs/ICRA14_Forster.pdf
 
-代码：https://github.com/uzh-rpg/rpg_svo
+Code：https://github.com/uzh-rpg/rpg_svo
 
 
 
@@ -26,69 +33,120 @@ CSDN：https://blog.csdn.net/u011344545
 
 ## Real-Time Visual Odometry from Dense RGB-D Images
 
-论文：http://www.cs.nuim.ie/research/vision/data/icra2013/Whelan13icra.pdf
+Paper：http://www.cs.nuim.ie/research/vision/data/icra2013/Whelan13icra.pdf
 
-代码：https://github.com/tum-vision/dvo
+Code：https://github.com/tum-vision/dvo
 
 
 
 ## Parallel Tracking and Mapping for Small AR Workspaces
 
-论文：https://cse.sc.edu/~yiannisr/774/2015/ptam.pdf
+Paper：https://cse.sc.edu/~yiannisr/774/2015/ptam.pdf
 
 http://www.robots.ox.ac.uk/ActiveVision/Papers/klein_murray_ismar2007/klein_murray_ismar2007.pdf
 
-代码：https://github.com/Oxford-PTAM/PTAM-GPL
+Code：https://github.com/Oxford-PTAM/PTAM-GPL
 
 
 
 ## ORBSLAM
 
-代码：https://github.com/raulmur/ORB_SLAM2
+Code1：https://github.com/raulmur/ORB_SLAM2
 
-https://github.com/raulmur/ORB_SLAM
+Code1：https://github.com/raulmur/ORB_SLAM
 
 
 
 ## A ROS Implementation of the Mono-Slam Algorithm
 
-论文：https://www.researchgate.net/publication/269200654_A_ROS_Implementation_of_the_Mono-Slam_Algorithm
+Paper：https://www.researchgate.net/publication/269200654_A_ROS_Implementation_of_the_Mono-Slam_Algorithm
 
-代码：https://github.com/rrg-polito/mono-slam
+Code：https://github.com/rrg-polito/mono-slam
 
 
 
 ## DTAM: Dense tracking and mapping in real-time
 
-论文：https://ieeexplore.ieee.org/document/6126513
+Paper：https://ieeexplore.ieee.org/document/6126513
 
-代码：https://github.com/anuranbaka/OpenDTAM
+Code：https://github.com/anuranbaka/OpenDTAM
 
 
 
 ## LSD-SLAM: Large-Scale Direct Monocular SLAM
 
-论文：http://pdfs.semanticscholar.org/c13c/b6dfd26a1b545d50d05b52c99eb87b1c82b2.pdf
+Paper：http://pdfs.semanticscholar.org/c13c/b6dfd26a1b545d50d05b52c99eb87b1c82b2.pdf
 
 https://vision.in.tum.de/research/vslam/lsdslam
 
-代码：https://github.com/tum-vision/lsd_slam
+Code：https://github.com/tum-vision/lsd_slam
+
+
+## PaoPaoRobot
+
+Code：https://github.com/PaoPaoRobot
+
+
+
+## ygz-slam
+
+Code：https://github.com/PaoPaoRobot/ygz-slam   
+
+https://github.com/gaoxiang12/ygz-stereo-inertial
+
+https://github.com/gaoxiang12/ORB-YGZ-SLAM
+
+https://www.ctolib.com/generalized-intelligence-GAAS.html#5-ygz-slam
+
+
+
+## MYNT-EYE
+
+Code：https://github.com/slightech
+
+
+
+## Kintinuous
+
+## Real-time Large Scale Dense RGB-D SLAM with Volumetric Fusion
+
+## Deformation-based Loop Closure for Large Scale Dense RGB-D SLAM
+
+## Robust Real-Time Visual Odometry for Dense RGB-D Mapping
+
+## Kintinuous: Spatially Extended KinectFusion
+
+## A method and system for mapping an environment
+
+Code：https://github.com/mp3guy/Kintinuous 
+
+
+
+## ElasticFusion
+
+## ElasticFusion: Dense SLAM Without A Pose Graph
+
+## ElasticFusion: Real-Time Dense SLAM and Light Source Estimation
+
+Paper：http://www.thomaswhelan.ie/Whelan16ijrr.pdf     http://thomaswhelan.ie/Whelan15rss.pdf
+
+Code：https://github.com/mp3guy/ElasticFusion
 
 
 
 ## MSCKF_VIO：Robust Stereo Visual Inertial Odometry for Fast Autonomous Flight
 
-论文：https://arxiv.org/abs/1712.00036
+Paper：https://arxiv.org/abs/1712.00036
 
-代码：https://github.com/KumarRobotics/msckf_vio
+Code：https://github.com/KumarRobotics/msckf_vio
 
 
 
 ## LIBVISO2: C++ Library for Visual Odometry 2
 
-论文：http://www.cvlibs.net/software/libviso/
+Paper：http://www.cvlibs.net/software/libviso/
 
-代码：https://github.com/srv/viso2
+Code：https://github.com/srv/viso2
 
 
 
@@ -96,9 +154,9 @@ https://vision.in.tum.de/research/vslam/lsdslam
 
 ## A constant-time SLAM back-end in the continuum between global mapping and submapping: application to visual stereo SLAM
 
-论文：http://mapir.uma.es/famoreno/papers/thesis/FAMD_thesis.pdf
+Paper：http://mapir.uma.es/famoreno/papers/thesis/FAMD_thesis.pdf
 
-代码：https://github.com/famoreno/stereo-vo
+Code：https://github.com/famoreno/stereo-vo
 
 
 
@@ -106,9 +164,9 @@ https://vision.in.tum.de/research/vslam/lsdslam
 
 ## Robust Edge-based Visual Odometry using Machine-Learned Edges(REVO)
 
-论文：https://graz.pure.elsevier.com/
+Paper：https://graz.pure.elsevier.com/
 
-代码：https://github.com/fabianschenk/REVO
+Code：https://github.com/fabianschenk/REVO
 
 
 
@@ -116,33 +174,33 @@ https://vision.in.tum.de/research/vslam/lsdslam
 
 ## VINS-Mono: A Robust and Versatile Monocular Visual-Inertial State Estimator
 
-论文：https://arxiv.org/pdf/1708.03852.pdf
+Paper：https://arxiv.org/pdf/1708.03852.pdf
 
-代码：https://github.com/HKUST-Aerial-Robotics/VINS-Mono
+Code：https://github.com/HKUST-Aerial-Robotics/VINS-Mono
 
 
 
 ## VINS-Fusion:Online Temporal Calibration for Monocular Visual-Inertial Systems
 
-论文：https://arxiv.org/pdf/1808.00692.pdf
+Paper：https://arxiv.org/pdf/1808.00692.pdf
 
-代码;https://github.com/HKUST-Aerial-Robotics/VINS-Fusion
+Code：https://github.com/HKUST-Aerial-Robotics/VINS-Fusion
 
 
 
 ## Monocular Visual-Inertial State Estimation for Mobile Augmented Reality
 
-论文：https://ieeexplore.ieee.org/document/8115400
+Paper：https://ieeexplore.ieee.org/document/8115400
 
-代码：https://github.com/HKUST-Aerial-Robotics/VINS-Mobile
+Code：https://github.com/HKUST-Aerial-Robotics/VINS-Mobile
 
 
 
 ## VINet: Visual-Inertial Odometry as a Sequence-to-Sequence Learning Problem
 
-论文：https://arxiv.org/abs/1701.08376
+Paper：https://arxiv.org/abs/1701.08376
 
-代码：https://github.com/HTLife/VINet
+Code：https://github.com/HTLife/VINet
 
 
 
@@ -150,7 +208,7 @@ https://vision.in.tum.de/research/vslam/lsdslam
 
 ## DSO: Direct Sparse Odometry
 
-代码;https://github.com/JingeTu/StereoDSO
+Code;https://github.com/JingeTu/StereoDSO
 
 ### Visual-Inertial DSOhttps://vision.in.tum.de/research/vslam/vi-dso
 
@@ -162,29 +220,29 @@ https://vision.in.tum.de/research/vslam/lsdslam
 
 ## Stereo odometry based on careful feature selection and tracking
 
-论文：https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7324219
+Paper：https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7324219
 
-代码：https://github.com/Mayankm96/Stereo-Odometry-SOFT
+Code：https://github.com/Mayankm96/Stereo-Odometry-SOFT
 
 
 
 ## OKVIS: Open Keyframe-based Visual-Inertial SLAM
 
-代码：https://github.com/gaoxiang12/okvis
+Code：https://github.com/gaoxiang12/okvis
 
 
 
 ## Trifo-VIO: Robust and Efficient Stereo Visual Inertial Odometry using Points and Lines
 
-论文：https://arxiv.org/pdf/1803.02403.pdf
+Paper：https://arxiv.org/pdf/1803.02403.pdf
 
-代码：https://github.com/UMiNS/Trifocal-tensor-VIO
+Code：https://github.com/UMiNS/Trifocal-tensor-VIO
 
 
 
 ## PL-VIO: Tightly-Coupled Monocular Visual–Inertial Odometry Using Point and Line Features
 
-论文：https://www.mdpi.com/1424-8220/18/4/1159/html
+Paper：https://www.mdpi.com/1424-8220/18/4/1159/html
 
 ## Overview of visual inertial navigation
 ### A Review of Visual-Inertial Simultaneous Localization and Mapping from Filtering-Based and Optimization-Based Perspectives：
