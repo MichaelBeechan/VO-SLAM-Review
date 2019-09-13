@@ -9,9 +9,21 @@ CSDN：https://blog.csdn.net/u011344545
 
 =======================================================================
 
+# 1、Visual Odometry or VSLAM
+
+# 2、Visual Inertial Odometry or VIO-SLAM
+
+# 3、Based CNN（Net VO or Net VSLAM）
+
+# 4、Lidar Visual odometry or Lidar SLAM
+
+
+
 ## OF-VO：Robust and Efficient Stereo Visual Odometry Using Points and Feature Optical Flow
 
 Code：https://github.com/MichaelBeechan/MyStereoLibviso2
+
+
 
 ## SLAMBook
 
@@ -24,6 +36,8 @@ Code：https://github.com/gaoxiang12/slambook
 ## SVO: Fast Semi-Direct Monocular Visual Odometry
 
 Paper：http://rpg.ifi.uzh.ch/docs/ICRA14_Forster.pdf
+
+Video: http://youtu.be/2YnIMfw6bJY
 
 Code：https://github.com/uzh-rpg/rpg_svo
 
@@ -82,6 +96,50 @@ https://vision.in.tum.de/research/vslam/lsdslam
 Code：https://github.com/tum-vision/lsd_slam
 
 
+
+## RGBD-Odometry (Visual Odometry based RGB-D images)
+
+## Real-Time Visual Odometry from Dense RGB-D Images
+
+Code：https://github.com/tzutalin/OpenCV-RgbdOdometry
+
+Paper：http://www.computer.org/csdl/proceedings/iccvw/2011/0063/00/06130321.pdf
+
+
+
+
+## DVO：Robust Odometry Estimation for RGB-D Cameras 
+
+Code：https://github.com/tum-vision/dvo
+
+https://vision.in.tum.de/data/software/dvo
+
+Paper：https://www.researchgate.net/publication/221430091_Real-time_visual_odometry_from_dense_RGB-D_images
+
+
+
+## Dense Visual Odometry and SLAM (dvo_slam)
+
+Code：https://github.com/tum-vision/dvo_slam
+
+https://vision.in.tum.de/data/software/dvo
+
+Paper：https://www.researchgate.net/publication/261353146_Dense_visual_SLAM_for_RGB-D_cameras
+
+
+
+## REVO：Robust Edge-based Visual Odometry 
+
+## Combining Edge Images and Depth Maps for Robust Visual Odometry
+
+## Robust Edge-based Visual Odometry using Machine-Learned Edges
+
+Code：https://github.com/fabianschenk/REVO
+
+Paper：https://graz.pure.elsevier.com/
+
+
+
 ## PaoPaoRobot
 
 Code：https://github.com/PaoPaoRobot
@@ -131,6 +189,22 @@ Code：https://github.com/mp3guy/Kintinuous
 Paper：http://www.thomaswhelan.ie/Whelan16ijrr.pdf     http://thomaswhelan.ie/Whelan15rss.pdf
 
 Code：https://github.com/mp3guy/ElasticFusion
+
+
+
+## Co-Fusion：Real-time Segmentation, Tracking and Fusion of Multiple Objects
+
+Paper：http://visual.cs.ucl.ac.uk/pubs/cofusion/index.html
+
+
+
+
+## R-VIO：Robocentric Visual-Inertial Odometry
+
+Code：https://github.com/rpng/R-VIO
+
+Paper：https://arxiv.org/abs/1805.04031
+
 
 
 
@@ -196,14 +270,6 @@ Code：https://github.com/HKUST-Aerial-Robotics/VINS-Mobile
 
 
 
-## VINet: Visual-Inertial Odometry as a Sequence-to-Sequence Learning Problem
-
-Paper：https://arxiv.org/abs/1701.08376
-
-Code：https://github.com/HTLife/VINet
-
-
-
 # Computer Vision Group TUM Department of Informatics Technical University of Munich
 
 ## DSO: Direct Sparse Odometry
@@ -250,5 +316,73 @@ Paper：https://www.mdpi.com/1424-8220/18/4/1159/html
 https://ieeexplore.ieee.org/document/5423178
 
 https://www.mdpi.com/2218-6581/7/3/45
+
+
+
+
+## VINet: Visual-Inertial Odometry as a Sequence-to-Sequence Learning Problem
+
+Paper：https://arxiv.org/abs/1701.08376
+
+Code：https://github.com/HTLife/VINet
+
+
+
+## DeepVO: Towards End-to-End Visual Odometry with Deep Recurrent Convolutional Neural Networks
+
+Code：https://github.com/ildoonet/deepvo
+
+https://github.com/sladebot/deepvo
+
+https://github.com/themightyoarfish/deepVO
+
+https://github.com/fshamshirdar/DeepVO (pytorch)
+
+Paper：http://www.cs.ox.ac.uk/files/9026/DeepVO.pdf
+
+
+
+## UnDeepVO - Implementation of Monocular Visual Odometry through Unsupervised Deep Learning
+
+Code：https://github.com/drmaj/UnDeepVO
+
+Paper：UnDeepVO - Implementation of Monocular Visual Odometry through Unsupervised Deep Learning
+
+
+
+## (ESP-VO) End-to-End, Sequence-to-Sequence Probabilistic Visual Odometry through Deep Neural Networks
+
+## https://www.seas.upenn.edu/~meam620/slides/kinematicsI.pdf
+
+
+
+# Lidar Visual odometry
+
+## Lidar-Monocular Visual Odometry
+
+Code：https://github.com/johannes-graeter/limo
+
+Paper：https://arxiv.org/pdf/1807.07524.pdf
+
+
+
+
+## cartographer
+
+Code：https://github.com/googlecartographer/cartographer
+
+Paper：https://google-cartographer.readthedocs.io/en/latest/
+
+
+
+
+
+
+
+
+
+
+
+
 
 
