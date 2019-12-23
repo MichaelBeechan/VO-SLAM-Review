@@ -141,6 +141,15 @@ Code：https://github.com/fabianschenk/REVO
 Paper：https://graz.pure.elsevier.com/
 
 
+## xivo
+
+X Inertial-aided Visual Odometry
+
+Code：https://github.com/ucla-vision/xivo
+
+Paper：[XIVO: X Inertial-aided Visual Odometry and Sparse Mapping](http://vision.ucla.edu/papers/tsotsosCS15.pdf)
+
+
 
 ## PaoPaoRobot
 
