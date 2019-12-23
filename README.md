@@ -17,7 +17,9 @@ CSDN：https://blog.csdn.net/u011344545
 
 # 4、Lidar Visual odometry or Lidar SLAM
 
-# 5.Datasets
+# 5、Datasets
+
+# 6、Libraries
 
 ## OF-VO：Robust and Efficient Stereo Visual Odometry Using Points and Feature Optical Flow
 
@@ -155,6 +157,14 @@ https://github.com/gaoxiang12/ygz-stereo-inertial
 https://github.com/gaoxiang12/ORB-YGZ-SLAM
 
 https://www.ctolib.com/generalized-intelligence-GAAS.html#5-ygz-slam
+
+
+
+## RTAB MAP
+
+- [RTAB MAP - Real-Time Appearance-Based Mapping](https://github.com/introlab/rtabmap). Available on ROS
+> Online Global Loop Closure Detection for Large-Scale Multi-Session Graph-Based SLAM, 2014
+> Appearance-Based Loop Closure Detection for Online Large-Scale and Long-Term Operation, 2013
 
 
 
@@ -365,6 +375,17 @@ Code：https://github.com/johannes-graeter/limo
 Paper：https://arxiv.org/pdf/1807.07524.pdf
 
 
+## RGBD and LIDAR
+
+- [Google's cartographer](https://github.com/googlecartographer/cartographer). Available on ROS
+
+
+
+## Other open source projects
+[DynaSLAM](https://github.com/BertaBescos/DynaSLAM) A SLAM system robust in dynamic environments for monocular, stereo and RGB-D setups
+
+[openvslam](https://github.com/xdspacelab/openvslam) A Versatile Visual SLAM Framework
+
 
 
 ## cartographer
@@ -376,7 +397,6 @@ Paper：https://google-cartographer.readthedocs.io/en/latest/
 
 # Datasets
 
-Dataset for benchmark/test/experiment/evalutation
 
 - [TUM Universtiy](http://vision.in.tum.de/data/datasets/rgbd-dataset/download)
 - [KITTI Vision benchmark](http://www.cvlibs.net/datasets/kitti/eval_odometry.php)
@@ -390,11 +410,34 @@ Dataset for benchmark/test/experiment/evalutation
 - [Lyft Level 5 AV Dataset 2019](https://level5.lyft.com/dataset/)
 - [KAIST Urban Dataset](https://irap.kaist.ac.kr/dataset/)
 
+# Libraries
+## Basic vision and trasformation libraries
+- [OpenCV](http://opencv.org/)
+- [Eigen](http://eigen.tuxfamily.org/index.php?title=Main_Page)
+- [Sophus](https://github.com/strasdat/Sophus)
+- [ROS](http://www.ros.org/)
+- [PointCloud](http://pointclouds.org/)
 
+## Thread-safe queue libraries
+- [concurrentqueue](https://github.com/cameron314/concurrentqueue)
+- [Intel® TBB](https://www.threadingbuildingblocks.org/)
+- [Facebook folly PC](https://github.com/facebook/folly/blob/master/folly/ProducerConsumerQueue.h)
 
+## Loop detection
+- [dorian3d](https://github.com/dorian3d)
 
+## Graph Optimization
+- [ceres-solver](https://github.com/ceres-solver/ceres-solver)
+- [g2o](https://github.com/RainerKuemmerle/g2o)
+- [gtasm](https://collab.cc.gatech.edu/borg/gtsam?destination=node%2F299)
+- [Vertigo](http://openslam.org/vertigo.html)
 
+## Map library
+- [ETHZ ASL/Grip Map](https://github.com/ethz-asl/grid_map)
+- [OmniMapper](https://github.com/CognitiveRobotics/omnimapper/wiki)
+- [OctoMap](https://github.com/OctoMap/octomap)
 
-
-
+## Tools
+- [rgbd-dataset tool from TUM](https://vision.in.tum.de/data/datasets/rgbd-dataset/tools)
+- [evo - evaluation tool for different trajectory formats](https://github.com/MichaelGrupp/evo)
 
