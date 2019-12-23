@@ -117,6 +117,16 @@ Video：https://www.youtube.com/watch?v=E8JK19TmTL4&feature=youtu.be
 
 
 
+## Stereo-Odometry-SOFT
+
+MATLAB Implementation of Visual Odometry using SOFT algorithm
+
+Code：https://github.com/Mayankm96/Stereo-Odometry-SOFT
+
+Paper：https://ieeexplore.ieee.org/document/7324219
+
+
+
 ## monoVO-python
 
 Code1：https://github.com/uoip/monoVO-pythone：https://github.com/uoip/monoVO-python
@@ -235,10 +245,30 @@ Paper：http://visual.cs.ucl.ac.uk/pubs/cofusion/index.html
 
 ## R-VIO：Robocentric Visual-Inertial Odometry
 
+(Kimera-VIO is a Visual Inertial Odometry pipeline for accurate State Estimation from Stereo + IMU data.)
+
 Code：https://github.com/rpng/R-VIO
 
 Paper：https://arxiv.org/abs/1805.04031
 
+
+
+## Kimera-VIO: Open-Source Visual Inertial Odometry
+
+Code：https://github.com/MIT-SPARK/Kimera-VIO
+
+Paper：https://arxiv.org/abs/1910.02490
+
+Kimera: an Open-Source Library for Real-Time Metric-Semantic Localization and Mapping
+
+
+## ADVIO: An Authentic Dataset for Visual-Inertial Odometry
+
+Code：https://github.com/AaltoVision/ADVIO
+
+Paper：https://arxiv.org/abs/1807.09828
+
+Data：https://zenodo.org/record/1476931#.XgCvYVIza00
 
 
 
