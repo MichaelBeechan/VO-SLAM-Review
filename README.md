@@ -266,6 +266,7 @@ Paper：https://arxiv.org/abs/1910.02490
 Kimera: an Open-Source Library for Real-Time Metric-Semantic Localization and Mapping
 
 
+
 ## ADVIO: An Authentic Dataset for Visual-Inertial Odometry
 
 Code：https://github.com/AaltoVision/ADVIO
@@ -281,6 +282,18 @@ Data：https://zenodo.org/record/1476931#.XgCvYVIza00
 Paper：https://arxiv.org/abs/1712.00036
 
 Code：https://github.com/KumarRobotics/msckf_vio
+
+
+
+
+## Kimera-VIO: Open-Source Visual Inertial Odometry
+
+Kimera: an Open-Source Library for Real-Time Metric-Semantic Localization and Mapping
+
+Code：https://github.com/MIT-SPARK/Kimera-VIO
+
+Paper：https://arxiv.org/abs/1910.02490
+
 
 
 
