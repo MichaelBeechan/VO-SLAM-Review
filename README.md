@@ -453,6 +453,20 @@ Code：https://github.com/googlecartographer/cartographer
 Paper：https://google-cartographer.readthedocs.io/en/latest/
 
 
+
+## A-LOAM（Advanced implementation of LOAM）
+
+LOAM: Lidar Odometry and Mapping in Real-time
+
+Code1：https://github.com/HKUST-Aerial-Robotics/A-LOAM
+
+Code2：https://github.com/cuitaixiang/LOAM_NOTED
+
+Paper：http://roboticsproceedings.org/rss10/p07.pdf
+
+
+
+
 # Datasets
 
 
