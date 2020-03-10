@@ -427,7 +427,7 @@ Paper：http://www.cs.ox.ac.uk/files/9026/DeepVO.pdf
 
 Code：https://github.com/drmaj/UnDeepVO
 
-Paper：UnDeepVO - Implementation of Monocular Visual Odometry through Unsupervised Deep Learning
+Paper：https://arxiv.org/pdf/1709.06841.pdf
 
 
 
