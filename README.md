@@ -1,4 +1,4 @@
-# Visual-Odometry-Review
+# Visual Odometry（VO）-SLAM-Review
 SLAM is mainly divided into two parts: the front end and the back end. The front end is the visual odometer (VO), which roughly estimates the motion of the camera based on the information of adjacent images and provides a good initial value for the back end.The implementation methods of VO can be divided into two categories according to whether features are extracted or not: feature point-based methods, and direct methods without feature points. VO based on feature points is stable and insensitive to illumination and dynamic objects
 
 =======================================================================
@@ -423,7 +423,7 @@ Paper：http://www.cs.ox.ac.uk/files/9026/DeepVO.pdf
 
 
 
-## UnDeepVO - Implementation of Monocular Visual Odometry through Unsupervised Deep Learning
+## UnDeepVO: Implementation of Monocular Visual Odometry through Unsupervised Deep Learning
 
 Code：https://github.com/drmaj/UnDeepVO
 
@@ -431,7 +431,155 @@ Paper：UnDeepVO - Implementation of Monocular Visual Odometry through Unsupervi
 
 
 
+## SfM-Net: SfM-Net: Learning of Structure and Motion from Video
+
+Code： https://github.com/waxz/sfm_net
+
+Paper： https://arxiv.org/pdf/1704.07804v1.pdf
+
+
+
+## CNN-SLAM: CNN-SLAM: Real-time dense monocular SLAM with learned depth prediction
+
+Code： https://github.com/iitmcvg/CNN_SLAM
+
+Paper：https://arxiv.org/pdf/1704.03489.pdf
+
+
+
+## PoseNet: Posenet: A convolutional network for real-time 6-dof camera relocalization(ICCV2015)
+
+Code：https://github.com/alexgkendall/caffe-posenet   or  https://github.com/kentsommer/tensorflow-posenet
+
+Paper：https://arxiv.org/pdf/1505.07427.pdf  or https://arxiv.org/pdf/1509.05909.pdf
+
+
+
+## VidLoc: VidLoc: 6-doF video-clip relocalization
+
+Code: https://github.com/futurely/deep-camera-relocalization
+
+Paper: https://arxiv.org/pdf/1702.06521.pdf
+
+
+
+## SemanticFusion: Dense 3D semantic mapping with convolutional neural networks
+
+Code: https://github.com/seaun163/semanticfusion
+
+Paper: https://arxiv.org/pdf/1609.05130v2.pdf
+
+
+
+## NetVLAD: NetVLAD: CNN architecture for weakly supervised place recognition(CVPR2016)
+
+Code: https://github.com/Relja/netvlad (Matlab)  or https://github.com/lyakaap/NetVLAD-pytorch
+
+Paper: https://arxiv.org/pdf/1511.07247.pdf
+
+
+
+## DeMoN: Depth and Motion Network for Learning Monocular Stereo（CVPR2017）
+
+Code: https://github.com/lmb-freiburg/demon
+
+Paper: https://arxiv.org/pdf/1612.02401v2.pdf
+
+
+
+## Learned Stereo Machine
+
+Code:  https://github.com/akar43/lsm
+
+Paper: https://arxiv.org/pdf/1708.05375.pdf
+
+
+
+## SfMLearner: Unsupervised Learning of Depth and Ego-Motion from Video
+
+Code: https://github.com/tinghuiz/SfMLearner
+
+Paper: https://arxiv.org/pdf/1704.07813.pdf
+
+
+
+## Toward Geometric Deep SLAM
+
+Code: UNopen(https://github.com/mtrasobaresb)
+
+Paper: https://arxiv.org/pdf/1707.07410v1.pdf
+
+
+
+## Neural SLAM : Learning to Explore with External Memory
+
+Code: UNopen
+
+Paper: https://arxiv.org/pdf/1706.09520.pdf
+
+
+
+## PoseConvGRU: A Monocular Approach for Visual Ego-motion Estimation by Learning(2019)
+
+Code: UNopen
+
+Paper: https://arxiv.org/pdf/1906.08095.pdf
+
+
+
+## Semi-Dense 3D Semantic Mapping from Monocular SLAM(2016)
+
+Code: UNopen
+
+Paper: https://arxiv.org/pdf/1611.04144.pdf
+
+
+
+## Image-based 3D Object Reconstruction: State-of-the-Art and Trends in the Deep Learning Era(2019)
+
+Paper: https://arxiv.org/pdf/1906.06543.pdf
+
+
+
+## DeepMVS: DeepMVS: Learning Multi-view Stereopsis(CVPR2018)
+
+Code: https://github.com/phuang17/DeepMVS
+
+Paper: https://phuang17.github.io/DeepMVS/index.html
+
+Paper: https://arxiv.org/pdf/1804.00650.pdf
+
+
+
+## MVSNet: Mvsnet: Depth inference for unstructured multi-view stereo(ECCV2018)
+
+Code1: https://github.com/YoYo000/MVSNet
+
+Code2: https://github.com/YoYo000/BlendedMVS
+
+Paper: https://arxiv.org/pdf/1804.02505.pdf
+
+
+
+## PointMVSNet:Point-based Multi-view Stereo Network
+
+Code: https://github.com/callmeray/PointMVSNet
+
+Paper: https://arxiv.org/pdf/1908.04422.pdf
+
+
+
+## Recurrent MVSNet: Recurrent MVSNet for High-resolution Multi-view Stereo Depth Inference(CVPR2019)
+
+Code: https://github.com/YoYo000/MVSNet
+
+Paper: https://arxiv.org/pdf/1902.10556.pdf
+
+
+
 ## (ESP-VO) End-to-End, Sequence-to-Sequence Probabilistic Visual Odometry through Deep Neural Networks
+
+Code: https://github.com/espnet/espnet
 
 ## https://www.seas.upenn.edu/~meam620/slides/kinematicsI.pdf
 
@@ -444,6 +592,7 @@ Paper：UnDeepVO - Implementation of Monocular Visual Odometry through Unsupervi
 Code：https://github.com/johannes-graeter/limo
 
 Paper：https://arxiv.org/pdf/1807.07524.pdf
+
 
 
 ## RGBD and LIDAR
