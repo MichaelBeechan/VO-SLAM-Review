@@ -21,9 +21,11 @@ https://download.csdn.net/download/u011344545/10850261
 
 # 4、Lidar Visual odometry or Lidar SLAM
 
-# 5、Datasets
+# 5、Semanitc SLAM
 
-# 6、Libraries
+# 6、Datasets
+
+# 7、Libraries
 
 ## OF-VO：Robust and Efficient Stereo Visual Odometry Using Points and Feature Optical Flow
 
@@ -134,6 +136,14 @@ MATLAB Implementation of Visual Odometry using SOFT algorithm
 Code：https://github.com/Mayankm96/Stereo-Odometry-SOFT
 
 Paper：https://ieeexplore.ieee.org/document/7324219
+
+
+
+## GF_ORB_SLAM：Good Feature Matching: Towards Accurate, Robust VO/VSLAM with Low Latency
+
+Paper：https://arxiv.org/pdf/2001.00714.pdf
+
+Code：https://github.com/ivalab/GF_ORB_SLAM
 
 
 
@@ -469,14 +479,6 @@ Paper: https://arxiv.org/pdf/1702.06521.pdf
 
 
 
-## SemanticFusion: Dense 3D semantic mapping with convolutional neural networks
-
-Code: https://github.com/seaun163/semanticfusion
-
-Paper: https://arxiv.org/pdf/1609.05130v2.pdf
-
-
-
 ## NetVLAD: NetVLAD: CNN architecture for weakly supervised place recognition(CVPR2016)
 
 Code: https://github.com/Relja/netvlad (Matlab)  or https://github.com/lyakaap/NetVLAD-pytorch
@@ -607,6 +609,14 @@ Paper：https://arxiv.org/pdf/1807.07524.pdf
 
 
 
+## CAE-LO: LiDAR Odometry Leveraging Fully Unsupervised Convolutional Auto-Encoder for Interest Point Detection and Feature Description
+
+Paper：https://arxiv.org/ftp/arxiv/papers/2001/2001.01354.pdf
+
+Code：https://github.com/SRainGit/CAE-LO
+
+
+
 ## Other open source projects
 [DynaSLAM](https://github.com/BertaBescos/DynaSLAM) A SLAM system robust in dynamic environments for monocular, stereo and RGB-D setups
 
@@ -631,6 +641,28 @@ Code1：https://github.com/HKUST-Aerial-Robotics/A-LOAM
 Code2：https://github.com/cuitaixiang/LOAM_NOTED
 
 Paper：http://roboticsproceedings.org/rss10/p07.pdf
+
+
+
+## SemanticFusion: Dense 3D semantic mapping with convolutional neural networks
+
+Code: https://github.com/seaun163/semanticfusion
+
+Paper: https://arxiv.org/pdf/1609.05130v2.pdf
+
+
+
+## ORB_SLAM2_SSD_Semantic
+
+Code：https://github.com/Ewenwan/ORB_SLAM2_SSD_Semantic
+
+
+
+## Visual Semantic SLAM with Landmarks for Large-Scale Outdoor Environment
+
+Paper：https://arxiv.org/pdf/2001.01028.pdf
+
+Code：https://github.com/1989Ryan/Semantic_SLAM/
 
 
 
