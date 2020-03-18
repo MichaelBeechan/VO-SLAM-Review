@@ -39,6 +39,12 @@ Code：https://github.com/gaoxiang12/slambook
 
 
 
+## SLAMBook2
+
+Code：https://github.com/gaoxiang12/slambook2
+
+
+
 ## SVO: Fast Semi-Direct Monocular Visual Odometry
 
 Paper：http://rpg.ifi.uzh.ch/docs/ICRA14_Forster.pdf
