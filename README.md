@@ -721,4 +721,5 @@ Code：https://github.com/1989Ryan/Semantic_SLAM/
 - [rgbd-dataset tool from TUM](https://vision.in.tum.de/data/datasets/rgbd-dataset/tools)
 - [evo - evaluation tool for different trajectory formats](https://github.com/MichaelGrupp/evo)
 - [SLAM Toolbox for Matlab](https://github.com/joansola/slamtb)
+- [Graph Optimization SLAM for MATLAB](https://github.com/UTS-CAS/Matlab-Graph-Optimization)
 
